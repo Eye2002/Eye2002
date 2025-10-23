@@ -9,7 +9,7 @@
   <a href="https://www.facebook.com/HernanCastaneda2902" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
-  <a href="https://eye2002.github.io/" target="_blank">
+  <a href="https://eye2002.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
 </div>
